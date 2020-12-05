@@ -99,18 +99,8 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/GitHubEmploy/v4">
-          <div>Designed and Built by Mohit Varikuti</div>
-
-          {githubInfo.stars && githubInfo.forks && (
-            <div className="github-stats">
-              <span>
-                <Icon name="Star" />
-                <span>{githubInfo.stars.toLocaleString()}</span>
-              </span>
-              <span>
-                <Icon name="Fork" />
-                <span>{githubInfo.forks.toLocaleString()}</span>
+        <a href="https://github.com/GitHubEmploy">
+          <div>Designed &amp; Built by Mohit Varikuti</div>
               </span>
             </div>
           )}
