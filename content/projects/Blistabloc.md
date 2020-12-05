@@ -1,14 +1,17 @@
 ---
-date: '2018-05-01'
-title: 'blistabloc'
+date: 'N/A'
+title: 'Essay Writer AI'
 github: ''
-external: 'https://blistabloc.com/'
+external: 'https://docs.google.com/document/d/1GPgvlMUglomSIgmAIhNWrZLxnRw-Lp7CddKApbcXZHM/edit'
 tech:
   - WordPress
+  - Docs
+  - Drive
+  - Python3
   - Timber
   - WooCommerce
-company: 'Scout'
-showInProjects: false
+company: 'N/A'
+showInProjects: true
 ---
 
-Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+Custom essay writer for me when im feeling too lazy to write an essay.
