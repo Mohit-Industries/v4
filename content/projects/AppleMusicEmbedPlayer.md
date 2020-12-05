@@ -1,14 +1,17 @@
 ---
-date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
+date: 'N/A'
+title: 'Flow AI Music Bot'
 github: ''
-external: 'https://tools.applemusic.com/en-us'
+external: 'http://flow.githubemploy.repl.co'
 tech:
   - MusicKit.js
   - JS
   - SCSS
-company: 'Apple'
+  - Python3
+  - Youtube
+  - Discord
+company: 'Flow'
 showInProjects: true
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+Building the future of music, together, using discord. Flow is a discord AI that is similar to the other discord bot, groovy, but is an AI that can comprehend your preferences and Artists. Flow is also the first ever high-quality streaming service for discord.
