@@ -1,14 +1,15 @@
 ---
-date: '2019-11-12'
-title: 'Moms Demand Action Mobile App'
+date: '2020'
+title: 'Mulbert'
 github: ''
-external: 'https://www.upstatement.com/work/moms-demand-action/'
-ios: 'https://apps.apple.com/us/app/demand-action/id1475502876'
-android: 'https://play.google.com/store/apps/details?id=com.momsdemandaction.app'
+external: 'https://mubert.com'
+ios: 'https://apps.apple.com/us/app/mubert-ai-music-streaming/id1154429580'
+android: 'https://apps.apple.com/us/app/mubert-ai-music-streaming/id1154429580'
 tech:
   - NativeScript Vue
   - iOS
   - Android
 company: 'Upstatement'
-showInProjects: false
+showInProjects: true
 ---
+AI generated music which I was a editor on
