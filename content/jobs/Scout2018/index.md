@@ -1,12 +1,10 @@
 ---
-date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
-range: 'January - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+date: '2020-10-17'
+title: 'AI: For Buisness Strategies'
+company: 'MIT'
+location: 'Cambrige Massachusetts'
+range: '2020-10-04 / 2020-10-17'
+url: 'https://mitsloan.mit.edu'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+This one is from the famous college of MIT. It is for learning how to use AI properly with Stocks, or "Buisness Strategies". But pretty much stocks.
