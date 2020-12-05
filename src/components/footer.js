@@ -15,7 +15,6 @@ const StyledFooter = styled.footer`
 
 const StyledSocialLinks = styled.div`
   display: none;
-
   @media (max-width: 768px) {
     display: block;
     width: 100%;
@@ -23,13 +22,11 @@ const StyledSocialLinks = styled.div`
     margin: 0 auto 10px;
     color: var(--light-slate);
   }
-
   ul {
     ${({ theme }) => theme.mixins.flexBetween};
     padding: 0;
     margin: 0;
     list-style: none;
-
     a {
       padding: 10px;
       svg {
@@ -45,14 +42,11 @@ const StyledCredit = styled.div`
   font-family: var(--font-mono);
   font-size: var(--fz-xxs);
   line-height: 1;
-
   a {
     padding: 10px;
   }
-
   .github-stats {
     margin-top: 10px;
-
     & > span {
       display: inline-flex;
       align-items: center;
@@ -77,7 +71,7 @@ const Footer = () => {
     if (process.env.NODE_ENV !== 'production') {
       return;
     }
-    fetch('https://api.github.com/repos/bchiang7/v4')
+    fetch('https://api.github.com/repos/GitHubEmploy/v4')
       .then(response => response.json())
       .then(json => {
         const { stargazers_count, forks_count } = json;
@@ -105,8 +99,8 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/bchiang7/v4">
-          <div>Designed &amp; Built by Brittany Chiang</div>
+        <a href="https://github.com/GitHubEmploy/v4">
+          <div>Designed and Built by Mohit Varikuti</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
