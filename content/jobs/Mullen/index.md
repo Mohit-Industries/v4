@@ -1,12 +1,10 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2020-9-21'
+title: 'AI Dev'
+company: 'Tensorflow'
+location: 'N/A'
+range: '2020-8-16 / 2020-9-21'
+url: 'https://www.tensorflow.org'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+The Tensorflow Dev certificate is one of the most wanted certificates in the AI arena. It establishes 2 things. 1, You are very good at python. 2, You are very smart and have a certain way of thinking that alows you to code like no body else.
