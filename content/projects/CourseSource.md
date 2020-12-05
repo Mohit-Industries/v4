@@ -1,5 +1,5 @@
 ---
-date: 'N/A'
+date: '2020'
 title: 'Sketching AI'
 github: ''
 external: 'https://docs.google.com/document/d/1onnDvVJc565g8SksGind6bDzvSsoWlqRk12E1GAxRqA/edit'
