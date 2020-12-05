@@ -1,7 +1,7 @@
 ---
 date: '2017-12-27'
 title: 'Halcyon Theme'
-github: 'https://github.com/bchiang7/halcyon-site'
+github: 'https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode'
 external: 'https://halcyon-theme.netlify.com/'
 tech:
   - VS Code
