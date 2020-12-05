@@ -1,15 +1,18 @@
 ---
-date: '2016-04-01'
-title: 'CourseSource'
-github: 'https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project'
-external: ''
+date: 'N/A'
+title: 'Sketching AI'
+github: ''
+external: 'https://docs.google.com/document/d/1onnDvVJc565g8SksGind6bDzvSsoWlqRk12E1GAxRqA/edit'
 tech:
-  - Angular
-  - Node
-  - Express
-  - MongoDB
-company: 'Northeastern'
+  - WordPress
+  - Timber
+  - Gutenberg
+  - PHP
+  - JS
+  - Mailchimp
+  - AMP
+company: 'Upstatement'
 showInProjects: false
 ---
 
-Web application built on the MEAN (MongoDB, Express, Angular, Node) stack with the intention of providing Northeastern students a better experience browsing the courses offered at Northeastern.
+Sketch AI that can sketch images using an Gaussian Beam Image
