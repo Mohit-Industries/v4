@@ -1,15 +1,16 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Google Ripoff'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'http://ase.varikuti.repl.co'
+external: 'http://ase.varikuti.repl.co'
 tech:
   - React
   - Node.js
-  - Express
-  - Spotify Web API
+  - Python
+  - Tensorflow
+  - NewsAPI
 showInProjects: true
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+I made a google rippoff to prove how easy it is to recreate the google search engine. It uses an direct WSS connection to the internet with just raw data, and i built my own search engine that is/better than google.
