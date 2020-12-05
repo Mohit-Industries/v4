@@ -1,14 +1,15 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
+date: 'N/A'
+title: 'Chatbot AI'
 github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+external: 'https://docs.google.com/document/d/10mpBHkkcVhHSJMIk4PShfT_CuQesHumZ_amVyuUIvaw/edit'
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - Python3
+  - PyTorch
+  - PS3Q
+  - MongoDB
+company: 'N/A'
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Custom human thats an AI and has emotions and opinions.
