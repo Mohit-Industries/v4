@@ -1,12 +1,10 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
+date: 'N/A'
+title: 'Other Certificates'
+company: 'Certificates'
 location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+range: 'https://drive.google.com/file/d/19gS0rt9HFg0grW8EzhZ3gdYbW25Rf6DH/view?usp=sharing'
+url: 'https://drive.google.com/file/d/19gS0rt9HFg0grW8EzhZ3gdYbW25Rf6DH/view?usp=sharing'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+Some other certificates and proof of the other ones I stated.
