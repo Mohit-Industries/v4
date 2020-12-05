@@ -1,14 +1,16 @@
 ---
 date: '3'
-title: 'OctoProfile'
+title: 'Stock Sentiment Analysis'
 cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+github: 'https://github.com/GitHubEmploy/StockSentiment.git'
+external: 'https://github.com/GitHubEmploy'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - Python
+  - Flair
+  - Pytorch
+  - Polygon.io
+  - NewsAPI
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.
+The Objective of this is to be able pull "Sentiment" of a stock from news articles and snippets. In order to do this, it uses a NLU Network and Tokeniser to determine wether the stock has a good overall sentiment, or a bad overall sentiment.
