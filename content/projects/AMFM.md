@@ -1,14 +1,14 @@
 ---
-date: '2017-11-01'
-title: 'Apple Music Facebook Messenger Integration'
+date: 'N/A'
+title: 'Super Intelegent Stock AI'
 github: ''
-external: 'https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming'
+external: 'https://stratusai.000webhostapp.com'
 tech:
-  - Ember
-  - JS
-  - SCSS
-company: 'Apple'
+  - Python
+  - Discord
+  - Tensorflow
+company: 'Nasdaq'
 showInProjects: true
 ---
 
-Facebook Messenger chat bot extension featuring authentication and full song streaming from within the Messenger app. Read more about it on [The Verge](https://www.theverge.com/2017/10/5/16433770/facebook-messenger-apple-music-bot-song-streaming).
+Stratus is a Q-Learning AI that can trade stocks for you with a very high accuracy. This application is currently completely FREE and requires NO CODING or any stock expertise to get started. All you need is a Discord account and a Alpaca API Account which are both very easy to obtain. 
