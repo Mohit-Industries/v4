@@ -1,7 +1,7 @@
 ---
 date: '2019'
 title: 'Chatbot AI'
-github: ''
+github: 'https://discordaichatbot.herokuapp.com'
 external: 'https://docs.google.com/document/d/10mpBHkkcVhHSJMIk4PShfT_CuQesHumZ_amVyuUIvaw/edit'
 tech:
   - Python3
