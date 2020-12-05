@@ -1,5 +1,5 @@
 ---
-date: '2017-12-27'
+date: '2020-9-27'
 title: 'Halcyon Theme'
 github: 'https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode'
 external: 'https://halcyon-theme.netlify.com/'
