@@ -141,19 +141,26 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Brittany, a software engineer based in Boston, MA.</p>
-
             <p>
-              I enjoy creating things that live on the internet, whether that be websites,
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
+            Hi, My name is Mohit Varikuti. I am currently 13 years old. I was born in Los Gatos, and I currently live in Dublin, CA. 
+            I am currently a AI expert, certified by the Global Tech Council. I am Currently building projects most people cant even dream of, including Super Intelligent AI's. 
+            I also know 15 coding languages, which of include Python, Javascript, and HTML, (The same kind that coded this website). I also currently have a patent pending, for a Zigby IOT Mesh Network system. 
+            I also currently have a 3d printer , which I know how to operate and repair. 
             </p>
-
+  
             <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+            Some of my skills include, 3d printing, IOT, Artificial Intelligence, Advanced Algorithms, Advanced Hardware, Biotech, Web Development, VR Development, Frontend and Backend coding, and Automated Drone Flying. 
+            I also have verifications on all of these topics from MIT, to Harvard, to University of Michigan. 
+            But really, these things don't tell much about a person. Most of the time, to understand the person, you have to meet them. 
+            And I hope to meet all of you someday, but for now, I will tell you about myself. 
+            My mindset has always been a certain way that I was able to understand the things that no one else was able to. 
+            In my life, I have always loved to solve puzzles, and things that were mentally challenging to the brain. 
+            </p>
+  
+            <p>  
+            And while I used my brain alot, I also use my physical strength and determination as well. 
+            I am currently First Class in Boy Scouts, and I am aiming to be an Eagle Scout, and as well, I also very much enjoy Biking, as it is one of my favorite things to do. 
+            I hope that this has given an accurate insight into my life, and that all details were covered.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
