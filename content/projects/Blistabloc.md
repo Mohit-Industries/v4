@@ -1,5 +1,5 @@
 ---
-date: 'N/A'
+date: '2019'
 title: 'Essay Writer AI'
 github: ''
 external: 'https://docs.google.com/document/d/1GPgvlMUglomSIgmAIhNWrZLxnRw-Lp7CddKApbcXZHM/edit'
