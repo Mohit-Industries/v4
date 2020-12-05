@@ -1,5 +1,5 @@
 ---
-date: 'N/A'
+date: '2020'
 title: 'Super Intelegent Stock AI'
 github: ''
 external: 'https://stratusai.000webhostapp.com'
