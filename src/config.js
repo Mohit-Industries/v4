@@ -8,7 +8,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'NotYetAvalibale',
+      url: 'https://linkedin.com/in/mohit-reddy-90b69a19b',
     },
     {
       name: 'Codepen',
