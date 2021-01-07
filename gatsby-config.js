@@ -6,7 +6,7 @@ module.exports = {
     description:
       'Mohit Varikuti is a 13 year old AI expert, and occasionally designer. I can make exceptional websites, applications, and everything in between.',
     siteUrl: 'https://mohitvarikuti.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: 'https://camo.githubusercontent.com/828722e0b509abc8853284414ca43476194114d8e3522097228343185f343d65/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3732393735383332363633353838383730332f3738343930363137333034373530343931362f53637265656e5f53686f745f323032302d31322d30355f61745f322e31362e35305f504d2e706e67', // Path to your image you placed in the 'static' folder
     twitterUsername: '@MohitVarikuti',
   },
   plugins: [
