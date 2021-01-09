@@ -1,8 +1,8 @@
 <h1 align="center">
-  https://mvb.netlify.app - v4
+  https://mohitvarikuti.com - v4
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://mvb.netlify.app" target="_blank">https://mvb.netlify.app</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  The fourth iteration of <a href="https://mohitvarikuti.com" target="_blank">https://mohitvarikuti.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
 ![demo](https://cdn.discordapp.com/attachments/729758326635888703/784906173047504916/Screen_Shot_2020-12-05_at_2.16.50_PM.png)
