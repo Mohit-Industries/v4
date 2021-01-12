@@ -49,7 +49,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Mohit Varikuti.</h2>;
-  const three = <h3 className="big-heading">I am an AI expert.</h3>;
+  const three = <h3 className="big-heading">I am a AI expert with an IQ of 217.</h3>;
   const four = (
     <p>
       I'm a AI Expert and Web Designer with an IQ of 217 based in Dublin, CA specializing in building (and occasionally
