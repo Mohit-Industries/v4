@@ -52,7 +52,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I am an AI expert.</h3>;
   const four = (
     <p>
-      I'm a AI Expert and Web Designer based in Dublin, CA specializing in building (and occasionally
+      I'm a AI Expert and Web Designer with an IQ of 217 based in Dublin, CA specializing in building (and occasionally
       designing) exceptional websites, AI's, and everything in between.
     </p>
   );
