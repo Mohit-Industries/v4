@@ -142,7 +142,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-            Hi, My name is Mohit Varikuti. I am currently 13 years old. I was born in Los Gatos, and I currently live in Dublin, CA. 
+            Hi, My name is Mohit Varikuti. I am currently 13 years old. I have an IQ of 217. I was born in Los Gatos, and I currently live in Dublin, CA. 
             I am currently a AI expert, certified by the Global Tech Council. I am Currently building projects most people cant even dream of, including Super Intelligent AI's. 
             I also know 15 coding languages, which of include Python, Javascript, and HTML, (The same kind that coded this website). I also currently have a patent pending, for a Zigby IOT Mesh Network system. 
             I also currently have a 3d printer , which I know how to operate and repair. 
