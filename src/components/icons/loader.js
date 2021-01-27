@@ -5,7 +5,7 @@ const IconLoader = () => (
     <title>Loader Logo</title>
     <g>
       <g id="B" transform="translate(11.000000, 5.000000)">
-        <text text-anchor="start" font-family="Calibre,system,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,Segoe UI,Arial,sans-serif" font-size="60" y="62" x="21" strokewidth="4" stroke="#64FFDA" fill="#64FFDA">(capital letter alphabet you want display as a logo)</text>
+        <text text-anchor="start" font-family="Calibre,system,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,Segoe UI,Arial,sans-serif" font-size="60" y="62" x="21" strokewidth="4" stroke="#64FFDA" fill="#64FFDA">B</text>
       </g>
       <path
         stroke="currentColor"
