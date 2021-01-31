@@ -30,7 +30,7 @@ const StyledHeader = styled.header`
     css`
       height: var(--nav-scroll-height);
       transform: translateY(0px);
-      background-color: rgba(10, 25, 47, 0.85);
+      background-color: var(--navy);
       box-shadow: 0 10px 30px -10px var(--navy-shadow);
     `};
 
@@ -191,7 +191,7 @@ const Nav = ({ isHome }) => {
             {isMounted && (
               <CSSTransition classNames={fadeDownClass} timeout={timeout}>
                 <div style={{ transitionDelay: `${isHome ? navLinks.length * 100 : 0}ms` }}>
-                  <a href="resume.pdf" className="resume-button">
+                  <a href="https://mohit.varikuti.repl.co" className="resume-button">
                     Resume
                   </a>
                 </div>
