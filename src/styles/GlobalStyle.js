@@ -9,7 +9,7 @@ const GlobalStyle = createGlobalStyle`
   :root {
     --dark-navy: #FFFFFF;
     --navy: #FFFFFF;
-    --light-navy: #FFFFFF;
+    --light-navy: #112240;
     --lightest-navy: #303C55;
     --navy-shadow: rgba(2, 12, 27, 0.7);
     --slate: #8892b0;
