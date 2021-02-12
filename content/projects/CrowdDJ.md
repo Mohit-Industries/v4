@@ -1,18 +1,18 @@
 ---
 date: 'N/A'
-title: 'COVID-19 Cure'
+title: 'Auto Sketch COmpleter'
 github: ''
-external: 'https://covid.githubemploy.repl.co'
+external: 'https://auto-sketch.netlify.app'
 tech:
   - Next.js
   - Tailwind CSS
   - Firebase
   - PyRx
   - Mohit Varikuti
-  - Corona
-  - Sutter Health
+  - Netlify
+  - Node.js
 company: ''
 showInProjects: true
 ---
 
-We made a cure for COVID that has a 98.7% binding rate using AI
+Auto sketch AI that can complete images. Test it out.
