@@ -99,8 +99,8 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/GitHubEmploy">
-          <div>Made using React/div>
+        <a href="https://reactjs.org">
+          <div>Made using React</div>
         </a>
       </StyledCredit>
     </StyledFooter>
